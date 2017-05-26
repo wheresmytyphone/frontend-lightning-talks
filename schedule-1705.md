@@ -5,3 +5,17 @@
 -----------------------------------------
 1. John Doe - CSS Animations
 2. David Becker - Algorithms 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tyler Garner - Media queries - screens + beyond
